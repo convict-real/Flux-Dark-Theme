@@ -1,6 +1,6 @@
 # Screenshot #
 
-![flux-dark-theme](http://i.imgur.com/Iqbg3Q0.png)
+![flux-dark-theme](https://i.imgur.com/sZ4mPr9.png)
 
 # Installation #
 
