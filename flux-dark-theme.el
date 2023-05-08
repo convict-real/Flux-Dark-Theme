@@ -81,4 +81,4 @@
    `(mode-line-emphasis ((t (:foreground ,quartz))))
    `(dired-directory ((t (:foreground ,quartz))))))
 
-(provide 'flux-dark-theme)\n ;;; flux-dark-theme.el ends here
+(provide 'flux-dark-theme) ;;; flux-dark-theme.el ends here
